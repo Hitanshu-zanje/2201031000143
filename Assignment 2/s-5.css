@@ -1,0 +1,203 @@
+.div3,
+.icon3 {
+  position: relative;
+}
+.icon3 {
+  width: 113px;
+  height: 27.6px;
+}
+.status-bar3 {
+  position: absolute;
+  top: 3.4px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-8xs);
+  gap: 0 166px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-snow-100);
+}
+.s-5-child,
+.s-5-item {
+  position: absolute;
+  top: 770.1px;
+  left: 79.4px;
+  background-color: var(--color-gray-200);
+  width: 214.1px;
+  height: 4.8px;
+}
+.s-5-item {
+  top: 149.2px;
+  left: 12.5px;
+  border-radius: 24px;
+  background-color: var(--color-gainsboro);
+  width: 335px;
+  height: 501.5px;
+}
+.donor-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 265px;
+  height: 38.3px;
+}
+.donor-button,
+.search-bloodbank1 {
+  position: absolute;
+  top: 4.1px;
+  left: 25px;
+}
+.donor-button {
+  top: 523.5px;
+  left: 47.5px;
+  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  width: 265px;
+  height: 38.3px;
+  font-size: var(--font-size-6xl);
+}
+.group-child,
+.select-district {
+  position: absolute;
+  top: 0;
+  left: 4.1px;
+}
+.group-child {
+  top: 42.6px;
+  left: 0;
+  width: 291.2px;
+  height: 1.6px;
+  object-fit: contain;
+}
+.chevron-down-icon {
+  position: absolute;
+  top: 8.7px;
+  left: 259.6px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.select-district-parent {
+  position: absolute;
+  top: 180.4px;
+  left: 34.4px;
+  width: 291.2px;
+  height: 44.2px;
+}
+.group-item,
+.select-taluka {
+  position: absolute;
+  top: 0;
+  left: 4.1px;
+}
+.group-item {
+  top: 42.6px;
+  left: 0;
+  width: 291.2px;
+  height: 1.6px;
+  object-fit: contain;
+}
+.chevron-down-icon1 {
+  position: absolute;
+  top: 8.7px;
+  left: 259.6px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.select-taluka-parent {
+  position: absolute;
+  top: 255.9px;
+  left: 34.4px;
+  width: 291.2px;
+  height: 44.2px;
+}
+.group-inner,
+.select-city {
+  position: absolute;
+  top: 0;
+  left: 4.1px;
+}
+.group-inner {
+  top: 42.6px;
+  left: 0;
+  width: 291.2px;
+  height: 1.6px;
+  object-fit: contain;
+}
+.chevron-down-icon2 {
+  position: absolute;
+  top: 8.7px;
+  left: 259.6px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.select-city-parent {
+  position: absolute;
+  top: 346.7px;
+  left: 34.4px;
+  width: 291.2px;
+  height: 44.2px;
+}
+.line-icon,
+.select-pin-code {
+  position: absolute;
+  top: 0;
+  left: 4.1px;
+}
+.line-icon {
+  top: 42.6px;
+  left: 0;
+  width: 291.2px;
+  height: 1.6px;
+  object-fit: contain;
+}
+.chevron-down-icon3 {
+  position: absolute;
+  top: 8.7px;
+  left: 259.6px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.select-pin-code-parent {
+  position: absolute;
+  top: 422.1px;
+  left: 34.4px;
+  width: 291.2px;
+  height: 44.2px;
+}
+.here-to-search {
+  color: var(--color-black);
+}
+.click-here-to-container {
+  position: absolute;
+  top: 593.1px;
+  left: 34.5px;
+  font-size: 12px;
+  color: #0d46db;
+}
+.blood-bank2 {
+  position: absolute;
+  top: 72px;
+  left: 75px;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+  color: var(--color-maroon-100);
+}
+.s-5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #db2323, #ea7960);
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

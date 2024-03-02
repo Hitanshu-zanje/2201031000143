@@ -1,0 +1,89 @@
+.blood-bank1 {
+  position: absolute;
+  top: 52.9px;
+  left: 75px;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+  color: var(--color-maroon-100);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div1,
+.icon1 {
+  position: relative;
+}
+.icon1 {
+  width: 113px;
+  height: 27.6px;
+}
+.status-bar1 {
+  position: absolute;
+  top: 3.4px;
+  left: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-8xs);
+  gap: 0 150px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-snow-100);
+}
+.s-3-child {
+  position: absolute;
+  top: 98.9px;
+  left: 97.5px;
+  width: 165px;
+  height: 165px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.registration,
+.s-3-inner,
+.s-3-item {
+  position: absolute;
+  top: 263.9px;
+  left: 95px;
+  cursor: pointer;
+}
+.s-3-inner,
+.s-3-item {
+  top: 334px;
+  left: 97.5px;
+  width: 165px;
+  height: 165px;
+  object-fit: cover;
+}
+.s-3-inner {
+  top: 552px;
+  left: 100px;
+}
+.search-bloodbank,
+.search-donor {
+  position: absolute;
+  top: 700px;
+  left: 83px;
+  cursor: pointer;
+}
+.search-bloodbank {
+  top: 499px;
+  left: 51px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 770.1px;
+  left: 79.4px;
+  background-color: var(--color-gray-200);
+  width: 214.1px;
+  height: 4.8px;
+}
+.s-3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #db2323, #ea7960);
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

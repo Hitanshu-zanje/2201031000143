@@ -1,0 +1,253 @@
+.div2,
+.icon2 {
+  position: relative;
+}
+.icon2 {
+  width: 113px;
+  height: 27.6px;
+}
+.status-bar2 {
+  position: absolute;
+  top: 3.4px;
+  left: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-8xs);
+  gap: 0 166px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-snow-100);
+}
+.s-4-child {
+  position: absolute;
+  top: 770.1px;
+  left: 79.4px;
+  background-color: var(--color-gray-200);
+  width: 214.1px;
+  height: 4.8px;
+}
+.registration1 {
+  position: absolute;
+  top: 64.1px;
+  left: 74.5px;
+  font-size: var(--font-size-13xl);
+}
+.form-text-child,
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-text-child {
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.form-text-item,
+.name1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-text-item {
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text1 {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.form-text-inner,
+.name2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-text-inner {
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text2 {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.line-div,
+.name3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.line-div {
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text3 {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.name4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-text-child1 {
+  position: absolute;
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text4 {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.name5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-text-child2 {
+  position: absolute;
+  height: 5.13%;
+  width: 100.72%;
+  top: 97.44%;
+  right: -0.36%;
+  bottom: -2.56%;
+  left: -0.36%;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.form-text5 {
+  width: 279px;
+  position: relative;
+  height: 39px;
+}
+.form {
+  position: absolute;
+  top: 134px;
+  left: 33.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px 0;
+  color: var(--color-silver);
+}
+.select-gender {
+  position: absolute;
+  top: 509.6px;
+  left: 38.5px;
+  color: #d9c5c5;
+}
+.s-4-inner,
+.s-4-item {
+  position: absolute;
+  top: 558.9px;
+  left: 39.4px;
+  border-radius: 50%;
+  background-color: var(--color-salmon);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 25.1px;
+  height: 21.8px;
+}
+.s-4-inner {
+  left: 167.5px;
+}
+.female,
+.male {
+  position: absolute;
+  top: 554.8px;
+  left: 196.5px;
+}
+.male {
+  top: 556.7px;
+  left: 79.3px;
+}
+.be-a-donor1 {
+  position: relative;
+}
+.be-a-donor {
+  position: absolute;
+  top: 624.3px;
+  left: 100.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-7xl);
+}
+.s-4-child1 {
+  position: absolute;
+  top: 688.8px;
+  left: 47.5px;
+  border-radius: 6px;
+  background-color: var(--color-gainsboro);
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  width: 265px;
+  height: 38.3px;
+}
+.create-account {
+  position: absolute;
+  top: 692.9px;
+  left: 87.5px;
+  color: var(--color-black);
+}
+.s-4-child2 {
+  position: absolute;
+  top: 621.9px;
+  left: 45.5px;
+  background-color: var(--color-salmon);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 30px;
+  height: 31.7px;
+}
+.s-4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #db2323, #ea7960);
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

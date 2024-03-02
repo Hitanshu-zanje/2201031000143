@@ -1,0 +1,306 @@
+.icon5,
+.input-field {
+  position: relative;
+}
+.icon5 {
+  height: 27.6px;
+  width: 113px;
+}
+.input-field-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-5xs) 0 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-snow-100);
+  font-family: var(--font-inter);
+}
+.login {
+  margin: 0;
+  font-size: 39px;
+  font-weight: 800;
+  font-family: inherit;
+}
+.login,
+.welcome-to-maharashtra {
+  position: relative;
+}
+.already-registered-user {
+  align-self: stretch;
+  position: relative;
+}
+.login-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 13px 0;
+}
+.label-child {
+  height: 51px;
+  width: 311.2px;
+  position: relative;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.india-in-91 {
+  position: relative;
+  font-size: var(--font-size-lgi);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: left;
+  z-index: 1;
+}
+.caret-down-icon {
+  height: 38px;
+  width: 25px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.label,
+.label-item {
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gainsboro);
+}
+.label {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) 81px 0 65px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 14px;
+}
+.label-item {
+  height: 51px;
+  width: 311.2px;
+  position: relative;
+  display: none;
+}
+.username {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray);
+  text-align: left;
+  z-index: 1;
+}
+.label1,
+.text-input-child {
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gainsboro);
+}
+.label1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) var(--padding-xl) var(--padding-5xs) 21px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.text-input-child {
+  height: 51px;
+  width: 311.2px;
+  position: relative;
+  display: none;
+}
+.eye-slash-icon,
+.password {
+  position: relative;
+  z-index: 1;
+}
+.password {
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.eye-slash-icon {
+  height: 25px;
+  width: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text-input {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl) 11px 97px;
+  background-color: var(--color-gainsboro);
+  align-self: stretch;
+  border-radius: var(--br-16xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 53px;
+}
+.forgot-password {
+  position: relative;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+}
+.label-parent,
+.text-input-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.label-parent {
+  align-items: flex-start;
+  gap: 25px 0;
+}
+.login-button {
+  height: calc(100% - 5px);
+  width: calc(100% + 1.2px);
+  position: absolute;
+  margin: 0 !important;
+  top: 0.8px;
+  right: -0.6px;
+  bottom: 4.2px;
+  left: -0.6px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-red);
+  box-shadow: 5px 10px 6px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.login1 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-7xs) 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.container,
+.dont-have-an {
+  position: relative;
+}
+.rectangle-shape {
+  height: 100%;
+  width: calc(100% + 0.2px);
+  position: absolute;
+  margin: 0 !important;
+  top: 0.4px;
+  right: -0.6px;
+  bottom: -0.4px;
+  left: 0.4px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-red);
+  box-shadow: 5px 10px 6px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.register {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.register-box,
+.welcome-message {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.register-box {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs);
+  background-color: transparent;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+.welcome-message {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px 0;
+}
+.frame-group {
+  align-items: flex-start;
+  padding: 0 14px 0 var(--padding-smi);
+  gap: 31px 0;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-group,
+.frame-parent,
+.login-text-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.login-text-parent {
+  align-items: center;
+  gap: 49px 0;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-parent {
+  align-items: flex-start;
+  gap: 45px 0;
+}
+.username-input-field {
+  width: 254.1px;
+  height: 4.8px;
+  position: relative;
+  background-color: var(--color-gray-200);
+}
+.s-2 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #db2323, #ea7960);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 4px var(--padding-3xs) 31px 12px;
+  box-sizing: border-box;
+  gap: 74px 0;
+}
